@@ -2,7 +2,7 @@
 ### ABOUT
 This is the training source code for the offline phase of DeepTheft, which comprises two steps.
 
-You can access the complete RAPL-based dataset at https://drive.google.com/drive/folders/1MEuaUYt_js9meAMut9WIERhtnlIn_hqK?usp=drive_link. The dataset includes "data.h5" and "hp.h5," representing the energy trace and hyperparameters, respectively. To execute the code successfully, please ensure that you place these files in the "datasets" folder within the root directory.
+You can access the complete RAPL-based dataset at https://zenodo.org/records/14334986?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjFkNDNhNGM4LTI5NmYtNDVmYy04Njg0LTEyYmNlY2MzM2MzZiIsImRhdGEiOnt9LCJyYW5kb20iOiIyZjZmZDNhMWQxNWU2OTM5YTMyNWFiMzllY2NjZmY4OSJ9.m5FXwzGPETjAMh8_YUU4r7OkoFvb-Iaaj_ijDj-pMyYG5kjMwVNLdIxO94_MkUars4C9xeSOng_FMux2gGqLKA. The dataset includes "data.h5" and "hp.h5," representing the energy trace and hyperparameters, respectively. To execute the code successfully, please ensure that you place these files in the "datasets" folder within the root directory.
 
 This is for releasing the source code of our work "DeepTheft: Stealing DNN Model Architectures through Power Side Channel". If you find it is useful and used for publication. Please kindly cite our work as:
 ```python
